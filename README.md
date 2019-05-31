@@ -1,3 +1,2 @@
 # Character-Profiles
-This function collects information about a fictional character and updates the information into a file. 
-After every character collection, an email will be sent to the professor displaying information about the character.
+Project Description: This function collects information about a fictional character that a user inputs and updates the information into a file. Once the function has been ran through, an email will be sent to the professor displaying the key information about the character.
